@@ -1,6 +1,6 @@
 # 🚀 Enrico Saito  
 
-🎓 Economics (2020-2025) - Federal University of Rio de Janeiro | 💻 Jr Software Engineer @ t3a.ai | 🇧🇷 From Brazil
+🎓 Economic Sciences - Federal University of Rio de Janeiro (2020-2025) | 💻 Jr Software Engineer @ t3a.ai | 🇧🇷 From Brazil
 
 ## 🛠 Tech Stack  
 
