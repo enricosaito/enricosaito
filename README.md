@@ -1,6 +1,6 @@
 # 🚀 Enrico Saito  
 
-🎓 Economics student | 💻 Passionate about programming | 🇧🇷 From Rio de Janeiro
+🎓 Economics (2020-2025) - Federal University of Rio de Janeiro | 💻 Jr Software Engineer @ t3a.ai | 🇧🇷 From Brazil
 
 ## 🛠 Tech Stack  
 
@@ -28,3 +28,4 @@
 ## 📫 Let's Connect!  
 
 - LinkedIn: [linkedin.com/in/enricosaito](https://www.linkedin.com/in/enricosaito)
+- Email: enricosaito@gmail.com
