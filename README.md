@@ -21,7 +21,7 @@
 
 ## 🔨 What I'm Working On  
 
-- 🚧 **Macro Calculator** – A web app for tracking macros and nutrition, built with React + TypeScript + Vite.  
+- 🚧 **Macro Calculator** – A web app for tracking macros and nutrition, built with React + TypeScript.  
 - 📖 Deepening my understanding of backend development, databases, and cloud technologies.  
 - 🎯 Striving to improve my coding skills and shipping real-world applications.  
 
