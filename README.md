@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,go,python,flask,firebase,supabase,git,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,python,flask,firebase,supabase,git,githubactions,docker,aws&perline=4)](https://skillicons.dev)
 
 
 ## 🔨 Live Projects & Work In Progress
