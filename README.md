@@ -29,4 +29,3 @@
 
 - 🍉 [**NutriMacros**](https://macro-calculator-e0c96.web.app/) – A web app for exploring smart recipes tailored to your macros, built with React + Firebase
 - 💻 [**OpenSourceRadar**](https://open-source-radar.web.app/) - A Borderless Coding Hackathon Project - 7 days to develop a SaaS  
-- 🎯 Striving to improve my coding skills and shipping real-world applications
