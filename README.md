@@ -1,10 +1,10 @@
 # Enrico Saito  
 
+- 🚀 Launching my own mobile apps: Scar Fit & Silva Gym (Present)
+- 💻 Software Engineer @ [t3a.ai](https://t3a.ai) (2024)  
+- 🌱 Jr Frontend Developer @ [Aelius Solar](https://aeliussolar.com.br) (2023)  
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro (2020-2025)  
 - 🎓 CS50x - Harvard's Introduction To Computer Science (2024)
-- 🚀 Launching my own mobile apps: Scar Fit & Silva Gym (Present)
-- 💻 Jr Software Engineer @ [t3a.ai](https://t3a.ai) (2024)  
-- 💻 Jr Frontend Developer @ [Aelius Solar](https://aeliussolar.com.br) (2023)  
 
 ## 🛠 Technologies & Stats 
 
