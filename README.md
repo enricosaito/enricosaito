@@ -13,9 +13,9 @@
   <!-- Tech Stack) -->
   <td valign="middle" align="center" style="border: none;">
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind&perline=4"><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,supabase&perline=4"><br>
-      <img src="https://skillicons.dev/icons?i=git,githubactions,docker,aws&perline=4">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind"><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,prisma"><br>
+      <img src="https://skillicons.dev/icons?i=git,githubactions,supabase,docker,aws">
     </p>
   </td>
 
