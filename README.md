@@ -15,7 +15,7 @@
     <p align="center">
       <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind"><br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgresql,prisma"><br>
-      <img src="https://skillicons.dev/icons?i=git,githubactions,supabase,docker,aws">
+      <img src="https://skillicons.dev/icons?i=git,githubactions,firebase,supabase,docker,aws">
     </p>
   </td>
 
