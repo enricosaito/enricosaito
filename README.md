@@ -1,8 +1,7 @@
 # Enrico Saito  
 
 - 🚀 Launching my own iOS app: Scar Fit
-- 💻 Software Engineer @ [t3a.ai](https://t3a.ai) (2024)  
-- 🌱 Jr Frontend Developer @ [Aelius Solar](https://aeliussolar.com.br) (2023)  
+- 💻 Midlevel Software Engineer @ [t3a.ai](https://t3a.ai) (2024)  
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro 
 - 🎓 CS50x - Harvard's Introduction To Computer Science
 
