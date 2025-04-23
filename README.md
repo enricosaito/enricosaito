@@ -1,6 +1,6 @@
 # Enrico Saito  
 
-- 🚀 Launching my own iOS app: Scar Fit
+- 🚀 Scar Fit - Dieta Inteligente (iOS / Android)
 - 💻 Midlevel Software Engineer @ [t3a.ai](https://t3a.ai) (2024)  
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro 
 - 🎓 CS50x - Harvard's Introduction To Computer Science
