@@ -2,7 +2,7 @@
 
 - 💻 Midlevel Software Engineer with 3+ years of experience
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro 
-- 🎓 CS50x - Harvard's Introduction To Computer Science
+- 📜 CS50x - Harvard's Introduction To Computer Science
 
 ## 🛠 Technologies & Stats 
 
