@@ -1,6 +1,6 @@
 # Enrico Saito  
 
-- 💻 Midlevel Software Engineer with 3+ years of experience
+- 💻 Midlevel Fullstack Engineer with 3+ years of experience
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro 
 - 📜 CS50x - Harvard's Introduction To Computer Science
 
