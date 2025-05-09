@@ -26,5 +26,5 @@
 
 ## 🟢 Live Projects
 
-- 🍉 [**NutriMacros**](https://macro-calculator-e0c96.web.app/) – A React app for exploring smart recipes tailored to your macros.
-- 📡 [**OpenSourceRadar**](https://open-source-radar.web.app/) - Borderless Coding Hackathon (3rd place) - helping developers contribute to open-source.
+- 🍉 [**NutriMacros**](https://macro-calculator-e0c96.web.app/) – A React app for exploring smart recipes tailored to your macros
+- 📡 [**OpenSourceRadar**](https://open-source-radar.web.app/) - Borderless Coding Hackathon (3rd place) - helping developers contribute to open-source
