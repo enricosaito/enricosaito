@@ -1,6 +1,6 @@
 # Enrico Saito  
 
-- 💻 Midlevel Fullstack Engineer with 3+ years of experience
+- 💻 Fullstack Engineer @ Grupo Silva
 - 🎓 Economic Sciences - Federal University of Rio de Janeiro 
 - 📜 CS50x - Harvard's Introduction To Computer Science
 
