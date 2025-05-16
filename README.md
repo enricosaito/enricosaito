@@ -1,9 +1,5 @@
 # Enrico Saito  
 
-- 💻 Fullstack Engineer @ Grupo Silva
-- 🎓 Economic Sciences - Federal University of Rio de Janeiro 
-- 📜 CS50x - Harvard's Introduction To Computer Science
-
 ## 🛠 Technologies & Stats 
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
