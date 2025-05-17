@@ -1,5 +1,7 @@
 # Enrico Saito  
 
+Founding Engineer @ Grupo Silva
+
 ## 🛠 Technologies & Stats 
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
