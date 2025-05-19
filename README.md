@@ -1,7 +1,7 @@
 # Enrico Saito  
 
-⚙️ Founding Engineer @ Grupo SILVA
-⭐ Borderless Coding - @ProgramadoresSemPatria
+- ⚙️ Founding Engineer @ Grupo SILVA
+- ⭐ Borderless Coding - @ProgramadoresSemPatria
 
 ## 🛠 Technologies & Stats 
 
