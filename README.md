@@ -1,7 +1,6 @@
 # ⚙️ Founding Engineer @ Grupo Silva
 
-- ️‍🍑 Silva Gym
-- 🍑 Silva Nutrition
+- ️‍🍑 Silva Gym & Silva Nutrition
 
 ## 🛠 Technologies & Stats 
 
