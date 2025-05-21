@@ -1,7 +1,9 @@
-# Enrico Saito  
+# ⚙️ Founding Engineer @ Grupo Silva
 
-- ⚙️ Founding Engineer @ Grupo Silva
-- ⭐ Membro Borderless Coding - Programadores Sem Pátria
+- ️‍🔥 Silva Gym
+- 🍑 Silva Nutrition
+- 🧡 Silva Club
+- Silva Foods (soon)
 
 ## 🛠 Technologies & Stats 
 
