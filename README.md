@@ -1,7 +1,7 @@
 # Enrico Saito  
 
 - ⚙️ Founding Engineer @ Grupo Silva
-- ⭐ Borderless Coding - Programadores Sem Pátria
+- ⭐ Membro Borderless Coding - Programadores Sem Pátria
 
 ## 🛠 Technologies & Stats 
 
