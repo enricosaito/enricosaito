@@ -1,7 +1,4 @@
 # ⚙️ Founding Engineer @ Grupo Silva
-
-- ️‍🍑 Silva Gym & Silva Nutrition
-
   <td valign="middle" align="center" style="border: none;">
     <p>
       <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><br>
