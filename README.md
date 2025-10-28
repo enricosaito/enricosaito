@@ -12,4 +12,4 @@
 ## 🟢 Live Projects
 
 - 🍉 [**NutriMacros**](https://macro-calculator-e0c96.web.app/) – Explore recipes tailored to your macros
-- 📡 [**OpenSourceRadar**](https://open-source-radar.web.app/) - Borderless Coding 7d Hackathon (3rd place) - Helping developers find open-source-projects to contribute
+- 📡 [**OpenSourceRadar**](https://open-source-radar.web.app/) - Helping developers find open-source-projects to contribute
