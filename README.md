@@ -2,7 +2,7 @@
 
 - ️‍🍑 Silva Gym & Silva Nutrition
 
-## 🛠 Technologies & Stats 
+## 🛠 Tech Stack
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
