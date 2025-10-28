@@ -9,9 +9,9 @@
   <!-- Tech Stack) -->
   <td valign="middle" align="center" style="border: none;">
     <p align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind"><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,next,python,postgresql"><br>
-        <img src="https://skillicons.dev/icons?i=git,githubactions,firebase,supabase,docker,aws">
+      <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,next,postgresql"><br>
+        <img src="https://skillicons.dev/icons?i=firebase,supabase,docker,aws">
     </p>
   </td>
 
