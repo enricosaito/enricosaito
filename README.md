@@ -6,7 +6,6 @@
 
 <table style="border-collapse: collapse; border: none; width: 100%;">
 <tr>
-  <!-- Tech Stack) -->
   <td valign="middle" align="center" style="border: none;">
     <p align="center">
       <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><br>
@@ -14,13 +13,6 @@
         <img src="https://skillicons.dev/icons?i=firebase,supabase,docker,aws">
     </p>
   </td>
-
-  <!-- GitHub Stats -->
-  <td valign="middle" align="center" style="border: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=enricosaito&show_icons=true&theme=tokyonight">
-  </td>
-</tr>
-</table>
 
 ## 🟢 Live Projects
 
