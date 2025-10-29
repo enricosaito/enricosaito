@@ -2,8 +2,7 @@
   <td valign="middle" align="center" style="border: none;">
     <p>
       <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,next,postgresql"><br>
-        <img src="https://skillicons.dev/icons?i=firebase,supabase,docker,aws">
+      <img src="https://skillicons.dev/icons?i=express,supabase,docker,aws">
     </p>
 
 ## 🟢 Live Projects
