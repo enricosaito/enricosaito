@@ -1,8 +1,7 @@
 # ⚙️ Founding Engineer @ Grupo Silva
   <td valign="middle" align="center" style="border: none;">
     <p>
-      <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><br>
-      <img src="https://skillicons.dev/icons?i=docker,aws,express,supabase,">
+      <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python"><img src="https://skillicons.dev/icons?i=nodejs,supabase,docker,aws">
     </p>
 
 ## 🟢 Live Projects
