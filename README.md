@@ -1,7 +1,7 @@
-# ⚙️ Founding Engineer @ Grupo Silva
+# ⚙️ Founding Engineer at Grupo Silva
   <td valign="middle" align="center" style="border: none;">
     <p>
-      <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,nodejs,express,postgresql,supabase,aws,docker"
+      <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,express,supabase,aws,docker"
     </p>
 
 ## 🟢 Live Projects
