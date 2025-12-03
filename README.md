@@ -5,6 +5,6 @@
     </p>
 
 ## 🟢 Live Projects
-- 🧡 [**Silva Partners**](https://www.silvapartners.com.br) - Platform to manage Communities and Creators
+- 🧡 [**Silva Partners**](https://www.silvapartners.com.br) - Platform that manages communities and creators
 - 🍉 [**NutriMacros**](https://macro-calculator-e0c96.web.app/) – Explore recipes tailored to your macros
 - 📡 [**OpenSourceRadar**](https://open-source-radar.web.app/) - Helping developers find open-source-projects to contribute
