@@ -1,4 +1,4 @@
-# ⚙️ Founding Engineer, Grupo Silva
+# ⚙️ Software Engineer, Grupo Silva
   <td valign="middle" align="center" style="border: none;">
     <p>
       <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,express,supabase,aws,docker"
