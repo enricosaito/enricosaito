@@ -1,4 +1,4 @@
-# ⚙️ Head of Software Engineering, Grupo Silva Gym
+# ⚙️ CTO & tech founder - Silva Gym
   <td valign="middle" align="center" style="border: none;">
     <p>
       <img src="https://skillicons.dev/icons?i=ts,react,tailwind,python,express,supabase,aws,docker"
