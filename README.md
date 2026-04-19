@@ -1,4 +1,4 @@
-# ⚙️ CTO & tech founder - Silva Gym
+# ⚙️ CTO & founding engineer - Silva Gym
 
 ## 🟢 Live Projects
 - 🧡 [**Silva Partners**](https://www.silvapartners.com.br) - Managing social media influencers and creators
