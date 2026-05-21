@@ -1,4 +1,4 @@
-# ⚙️ founding engineer - Silva Gym
+# ⚙️ founding engineer @silvagymbr
 Leading the tech strategy and building scalable systems for fitness operations. 
 In the last two years I have worked with these technologies professionally: Javascript, Typescript, Python, Node.js, React.js, React Native, Postgres, AWS.
 
