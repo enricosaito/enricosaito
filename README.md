@@ -1,6 +1,6 @@
 # founding engineer @silvagymbr
 Leading the tech strategy and building scalable systems for fitness operations. 
-In the last two years I have worked with these technologies professionally: Javascript, Typescript, Python, Node.js, React.js, React Native, Postgres, AWS.
+In the last three years I have worked with these technologies professionally: Javascript, Typescript, Python, Node.js, React.js, React Native, Postgres, AWS.
 
 contact me at: enrico@silvagym.com.br
 
