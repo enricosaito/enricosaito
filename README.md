@@ -6,5 +6,6 @@ contact me at: enrico@silvagym.com.br
 
 ## Live Projects
 - ✨ **[Brawlchemist](https://www.brawlchemist.com)** – Data-intensive analytics platform processing millions of Brawlhalla player records
-- 🧡 **[Silva Partners](https://www.silvapartners.com.br/)** – Platform for managing influencer operations and campaign workflows  
+- ✨ **[PRISMA](https://www.prismaconcept.com.br)** - My personal newsletter
+- 🧡 **[Silva Gym](https://app.silvagym.com.br/)** – Internal platform for gym operations
 - 📡 **[Open Source Radar](https://open-source-radar.web.app/)** – Free tool helping developers discover open-source projects
