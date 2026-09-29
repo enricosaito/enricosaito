@@ -6,5 +6,5 @@ contact me at: enrico@silvagym.com.br
 
 ## Live Projects
 - ✨ **[Brawlchemist](https://www.brawlchemist.com)** – Data-intensive analytics platform processing millions of Brawlhalla player records
-- 🌌 **[PRISMA Concept](https://www.prismaconcept.com.br)** - Personal newsletter about tech, art, design & philosophy
+- 🌌 **[PRISMA](https://www.prismaconcept.com.br)** - Personal newsletter about tech, art, design & philosophy
 - 📡 **[Open Source Radar](https://open-source-radar.web.app/)** – Free tool helping developers discover open-source projects
