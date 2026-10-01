@@ -1,4 +1,4 @@
-# founding engineer, senior fullstack engineer @silvagymbr
+# founding engineer, head of tech @silvagymbr
 Leading the tech strategy and building scalable systems for fitness operations. 
 In the last four years I have worked with these technologies professionally: Javascript, Typescript, Python, Node.js, React.js, React Native, PostgreSQL, AWS.
 
